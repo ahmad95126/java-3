@@ -1,4 +1,3 @@
-// Main Function
 function analyzeRange(start, end) {
   if (start > end) {
     return "Invalid range";
